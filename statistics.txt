@@ -1,0 +1,9 @@
+The average mark of Math is:70.33 
+The average mark of English is:54.95 
+Top Student in Math is: John Hillmann
+Top Student in English is: Clare Darkwood
+list of Failing Students:
+Jain Goodmann
+Scott Mile
+Jain Goodmann
+Jena Pike

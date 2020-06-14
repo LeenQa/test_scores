@@ -1,0 +1,68 @@
+{
+    "Math": {
+        "Teacher": "Mike Lang",
+        "Students": [
+            {
+                "name": "John Hillmann",
+                "scores": [90 ,85, 65]
+            },
+            {
+                "name": "Scott Mile",
+                "scores": [92 ,65, 75]
+            },
+            {
+                "name": "Jain Goodmann",
+                "scores": [75 ,5, 45]
+            },
+            {
+                "name": "Cathrine Price",
+                "scores": [85 ,85, 65]
+            },
+            {
+                "name": "Jena Pike",
+                "scores": [98 ,75, 35]
+            },
+            {
+                "name": "Clare Darkwood",
+                "scores": [77 ,67, 55]
+            },
+            {
+                "name": "Jack Hills",
+                "scores": [74 ,85, 79]
+            }
+        ]
+    },
+    "English": {
+        "Teacher": "David galliums",
+        "Students": [
+            {
+                "name": "John Hillmann",
+                "scores": [0 ,65, 85]
+            },
+            {
+                "name": "Scott Mile",
+                "scores": [55 ,65, 13]
+            },
+            {
+                "name": "Jain Goodmann",
+                "scores": [41 ,5, 45]
+            },
+            {
+                "name": "Cathrine Price",
+                "scores": [32 ,68, 65]
+            },
+            {
+                "name": "Jena Pike",
+                "scores": [74 ,75, 0]
+            },
+            {
+                "name": "Clare Darkwood",
+                "scores": [96 ,98, 85]
+            },
+            {
+                "name": "Jack Hills",
+                "scores": [62 ,61, 64]
+            }
+        ]
+    }
+}
